@@ -4,10 +4,10 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="ddnmath",  # Replace with your own username
+    name="ddnmath-davoudnsr",  # Replace with your own username
     version="0.0.1",
     author="Davoud Nasrabadi",
-    author_email="davoud.nasrabadi@example.com",
+    author_email="davoud.nasrabadi@gmail.com",
     description="davoud nasrabadi math package",
     long_description=long_description,
     long_description_content_type="text/markdown",
